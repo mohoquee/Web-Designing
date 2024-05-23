@@ -1,0 +1,14 @@
+/* subie.css */
+
+/* Align images properly */
+.tm-row .tm-col-left,
+.tm-row .tm-col-right {
+    width: 100%; /* Adjust width to stack images */
+    float: none; /* Ensure images stack vertically */
+}
+
+/* Ensure images are fully displayed */
+.tm-figure img {
+    max-width: 100%;
+    height: auto;
+}

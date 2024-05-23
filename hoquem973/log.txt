@@ -1,0 +1,6 @@
+> This is a test entry with forbidden characters.
+2024-03-22 18:54:05 - Added test entry with forbidden characters.
+> This is a test entry with forbidden characters.
+2024-03-22 18:54:20 - Added test entry with forbidden characters.
+> This is a test entry with forbidden characters.
+2024-03-22 18:54:23 - Added test entry with forbidden characters.
